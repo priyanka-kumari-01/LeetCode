@@ -7,7 +7,7 @@ class ListNode:
         self.next = next
 
 class Solution:
-    def mergeTwoLists(self, l1: ListNode) -> bool:
+    def isPalindrome(self, l1: ListNode) -> bool:
 
         # List to store the values of the linked list
         values = []
@@ -29,4 +29,4 @@ list1.next.next = ListNode(2)
 list1.next.next.next = ListNode(1)
 
 # Create Solution instance
-print(Solution.mergeTwoLists(1,list1))
+print(Solution.isPalindrome(1,list1))
