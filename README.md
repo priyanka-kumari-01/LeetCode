@@ -17,6 +17,6 @@
 ### Array / String
 | Status | Title | Solution | Difficulty |
 | --- | --- |--- |--- |
-| 88. | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/MergeSortedArray.py) | Easy |
-| 27.| [Remove Element](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/RemoveElement.py) | Easy |
 | 26. | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/RemoveDuplicatesfromSortedArray.py) | Easy |
+| 27.| [Remove Element](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/RemoveElement.py) | Easy |
+| 88. | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/MergeSortedArray.py) | Easy |
