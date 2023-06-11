@@ -12,3 +12,11 @@
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/PalindromeLinkedList.py) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/RansomNote.py) | Easy |
 
+
+## Top Interview 150
+### Array / String
+| Status | Title | Solution | Difficulty |
+| --- | --- |--- |--- |
+| 88. | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/MergeSortedArray.py) | Easy |
+| 27.| [Remove Element](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/RemoveElement.py) | Easy |
+| 26. | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/RemoveDuplicatesfromSortedArray.py) | Easy |
