@@ -17,6 +17,12 @@
 ### Array / String
 | Status | Title | Solution | Difficulty |
 | --- | --- |--- |--- | 
+| 68 | [Text Justification](https://leetcode.com/problems/text-justification/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/TextJustification.py) | Hard |
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/FindtheIndexoftheFirstOccurrenceinaString.py) | Easy |
+| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/ZigzagConversion.py) | Medium |
+| 151 | [ReverseWordsinaString](https://leetcode.com/problems/reverse-words-in-a-string/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/ReverseWordsinaString.py) | Medium |
+| 135 | [Candy](https://leetcode.com/problems/candy/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/Candy.py) | Hard |
+
 | 135 | [Candy](https://leetcode.com/problems/candy/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/Candy.py) | Hard |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/GasStation.py) | Medium |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/ProductofArrayExceptSelf.py) | Medium |
