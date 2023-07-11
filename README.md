@@ -8,7 +8,6 @@
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/NumberofStepstoReduceaNumbertoZero.py) | Easy |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/TheKWeakestRowsinaMatrix.py) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/fizzBuzz.py) | Easy |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/RomantoInteger.py) | Easy |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/PalindromeLinkedList.py) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/RansomNote.py) | Easy |
 
@@ -21,8 +20,11 @@
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/FindtheIndexoftheFirstOccurrenceinaString.py) | Easy |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/ZigzagConversion.py) | Medium |
 | 151 | [ReverseWordsinaString](https://leetcode.com/problems/reverse-words-in-a-string/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/ReverseWordsinaString.py) | Medium |
-| 135 | [Candy](https://leetcode.com/problems/candy/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/Candy.py) | Hard |
-
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/LongestCommonPrefix.py) | Easy |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/LengthofLastWord.py) | Easy |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/IntegertoRoman.py) | Medium |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/RomantoInteger.py) | Easy |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/TrappingRainWater.py) | Hard |
 | 135 | [Candy](https://leetcode.com/problems/candy/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/Candy.py) | Hard |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/GasStation.py) | Medium |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/ProductofArrayExceptSelf.py) | Medium |
