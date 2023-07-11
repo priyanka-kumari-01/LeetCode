@@ -17,6 +17,13 @@
 ### Array / String
 | Status | Title | Solution | Difficulty |
 | --- | --- |--- |--- | 
+| 135 | [Candy](hhttps://leetcode.com/problems/candy/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/Candy.py) | Hard |
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/GasStation.py) | Medium |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/ProductofArrayExceptSelf.py) | Medium |
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/InsertDeleteGetRandomO(1).py) | Medium |
+| 274 | [H-Index](https://leetcode.com/problems/h-index/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/HIndex.py) | Medium |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/JumpGameII.py) | Medium |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/JumpGame.py) | Medium |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/BestTimetoBuyandSellStockII.py) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/BestTimetoBuyandSellStock.py) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150)| [python3](https://github.com/priyanka-kumari-01/LeetCode/blob/main/RotateArray.py) | Medium |
